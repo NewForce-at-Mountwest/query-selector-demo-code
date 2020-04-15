@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    margin: auto;
+}
+
+.goat-mode{
+    font-family: cursive;
+    background-image: url("https://i.ytimg.com/vi/O3NQzrkAhD4/maxresdefault.jpg");
+    color: white;
+    font-size: 2em;
+}
+
+.orange-background{
+    background-color: orange;
+    margin: 1em;
+}
